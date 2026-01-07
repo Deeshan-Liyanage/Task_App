@@ -21,7 +21,7 @@ It is a simple task management application built with Android Studio and Java. I
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Deeshan-Liyanage27/Task_App
+   git clone https://github.com/Deeshan-Liyanage/Task_App
    ```
 2. Open the project in **Android Studio**.  
 3. Build and run the app on an emulator or a physical device.  
